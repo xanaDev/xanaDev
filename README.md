@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <span>I enjoy crafting unique web experiences, Always eager to learn new technologies.</span>
+  <span>I enjoy creating unique web experiences, Always eager to learn new technologies.</span>
   <br>
   <span>I'm currently using PHP/Laravel, Nodejs/express, React, Vuejs, and tailwindcss.</span>
 </p>
