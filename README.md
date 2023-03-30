@@ -5,7 +5,7 @@
   <p>
     <span>I enjoy crafting unique web experiences, Always eager to learn new technologies.</span>
     <br>
-    <span>I'm currently working with Nodejs(express, Nestjs), Vuejs, React and tailwindcss.</span>
+    <span>I'm currently working with Nodejs(express, Nestjs), Vuejs, React, and tailwindcss.</span>
     <br>
     <span>I enjoy programming in C, C++, and Golang for system oriented projects</span>
     <br>
