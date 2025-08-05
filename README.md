@@ -7,7 +7,7 @@
     <br>
     <span>I'm currently working with Nodejs(express, Nestjs), Vuejs, React, and tailwindcss.</span>
     <br>
-    <span>I enjoy programming in Go outside work, Rust seems interesting as well, might give it a spin.</span>
+    <span>I enjoy using Go and Rust for side projects.</span>
     <br>
   </p>
 </div>
